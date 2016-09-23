@@ -4,9 +4,14 @@ For more information on the trachea, please see article [Trachea](https://en.wik
 
 
 Images found in the medical_images directory which were used to help design the trachea, were gathered from the following sources:
+
 [The-cricoid-cartilage-in-anterior-posterior-and-sagittal-views-photo.jpg](http://healthfixit.com/cricoid-cartilage/)
+
 [cricoid-cartilage.jpg](http://img.tfd.com/MosbyMD/thumb/cricoid-cartilage.jpg)
+
 [IMG_0261.JPG](http://grantcreekvet.com/sites/site-4244/images/IMG_0261.JPG)
+
 [trachea2.jpg](http://www.vetsurgerycentral.com/images/respiratory/tracheal_collapse/trachea2.jpg)
+
 [Placing a Tracheostomy Tube Step 12.jpg](https://www.vygonvet.co.uk/sites/default/files/styles/large/public/panel_images/Placing%20a%20Tracheostomy%20Tube%20Step%2012.jpg?itok=KPOz4jIh)
 
