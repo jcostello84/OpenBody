@@ -5,11 +5,11 @@ module trachael_cartilage(width, ringthickness) {
         difference() {
             $fn = 360;
             // This controls the outer ring of the wall.
-            translate([-1, 0, 1])
+            translate([-1, 0, 2])
             cylinder(r=width, h=ringthickness, center=true);
 
             // This controls the inner ring wall.
-            translate([0, 0, 1])
+            translate([0, 0, 2])
             cylinder(r=width-1, h=6, center=true);
 
         }

@@ -7,6 +7,8 @@
     
    
 use <trachea_parts/trachael_cartilage.scad>;
+// Starting position for the tracheal cartilage.
+translate([0, 0,1])
 // Loops through the function 20 times.
 for (i=[0:19])
     // This controls the x, y, z coordinates of the ring. Twenty rings are added at an increment of 5 mm between.
